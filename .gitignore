@@ -1,5 +1,4 @@
 # Editor / OS
-.vscode/
 .idea/
 *.swp
 .DS_Store
@@ -16,3 +15,5 @@ report.pdf
 verification-output.txt
 *-dashboard.json
 screenshots/
+config.bat
+node_modules
